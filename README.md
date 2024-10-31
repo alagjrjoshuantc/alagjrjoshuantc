@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Joshua Jr Alag!
 
-<!--
-**alagjrjoshuantc/alagjrjoshuantc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m currently studying **BS Information Technology** at the **National Teachers College.**
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 **Current Project:** Developing a Capstone project focused on a Barangay Care Website, an integrated system for streamlined community management.
+- 🤝 **Collaboration:** Working with a team, using GitHub for version control and VSCode for our development environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+- 💻 **Programming Languages:** PHP, JavaScript, SQL, and a beginner in R.
+- ⚙️ **Technologies:** XAMPP server for local development, MySQL Workbench for databases, and PHPMailer for email functionality.
+- 🌐 **Web Development:** Focused on building user-friendly and secure websites, currently working on a Barangay management system with a database-driven interface.
+- 🔍 **Focus Areas:** Real-time data filtering, user authentication, and making websites more accessible for community use.
+
+## Fun Facts
+- 🔋 **Energy Levels:** A night owl, alternating between high-energy bursts and downtime.
+- 🎉 **Personality Type:** ENFJ - motivated by positivity, people, and projects that make a difference.
+  
+## Let's Connect!
+- 📫 **Email:** [8212275@ntc.edu.ph](mailto:8212275@ntc.edu.ph)
+
+Thanks for visiting my profile!
